@@ -1,0 +1,327 @@
+.this-line-is,
+.this-line-is1,
+.this-line-is2 {
+  width: 356px;
+  position: relative;
+  line-height: 16px;
+  font-weight: 800;
+  display: inline-block;
+}
+.this-line-is1 {
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.this-line-is2 {
+  color: var(--color-silver-100);
+}
+.lyrics-original {
+  position: absolute;
+  top: 83px;
+  left: -1px;
+  width: 356px;
+  height: 116px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.original {
+  position: relative;
+  line-height: 16px;
+  font-weight: 800;
+}
+.reino-unido-400px-icon {
+  width: 33px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  height: 22px;
+  object-fit: cover;
+}
+.frame1 {
+  width: 116px;
+  height: 22px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.bandera-espana-con-escudo-cons-icon {
+  width: 32px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  height: 22px;
+  object-fit: cover;
+}
+.frame3 {
+  width: 135px;
+  height: 22px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.frame,
+.frame2,
+.lyrics-traducidos {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.lyrics-traducidos {
+  width: 356px;
+  height: 116px;
+  align-items: center;
+  gap: var(--gap-7xl);
+  color: var(--color-silver-200);
+}
+.frame,
+.frame2 {
+  overflow: hidden;
+  align-items: flex-end;
+}
+.frame2 {
+  width: 356px;
+  height: 178px;
+  flex-shrink: 0;
+  gap: 40px;
+}
+.frame {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 357px;
+  height: 484px;
+  gap: 284px;
+  color: var(--color-white);
+}
+.lyrics {
+  width: 356px;
+  position: undefined;
+  height: 549px;
+  overflow: hidden;
+  flex-shrink: 0;
+  margin-right: 2px;
+}
+.cancion,
+.cancion1 {
+  width: 377px;
+  height: 29px;
+}
+.cancion1 {
+  position: relative;
+  letter-spacing: -0.03em;
+  line-height: 28px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.cancion {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: undefined;
+  margin-left: 6px;
+}
+.artista1 {
+  width: 96px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  height: 18px;
+  flex-shrink: 0;
+}
+.artista,
+.frame4 {
+  display: flex;
+  flex-direction: column;
+}
+.artista {
+  width: 96px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 16px;
+  color: #b3b3b3;
+  font-family: var(--font-avenir-next);
+}
+.frame4 {
+  width: 383px;
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: undefined;
+  height: 47px;
+  margin-right: 7px;
+}
+.frame-child,
+.frame-inner {
+  border-radius: var(--br-9xs);
+}
+.frame-child {
+  width: 128px;
+  background-color: var(--color-white);
+  height: 4px;
+}
+.frame-inner {
+  width: 383px;
+  background-color: var(--neutral-neutral-02);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-item {
+  width: 13px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  height: 13px;
+  margin-left: -258px;
+}
+.frame6 {
+  width: 383px;
+  height: 13px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+.div {
+  position: relative;
+  line-height: 12px;
+  font-weight: 500;
+}
+.frame7,
+.music-bar {
+  width: 387px;
+  height: 14px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 341px;
+}
+.music-bar {
+  width: 402px;
+  height: 45px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 9px 8px 6px;
+  box-sizing: border-box;
+  gap: 2px;
+}
+.vector-icon {
+  position: absolute;
+  height: 68.65%;
+  width: 62.5%;
+  top: 18.65%;
+  right: 18.61%;
+  bottom: 12.7%;
+  left: 18.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.back1 {
+  width: 36px;
+  position: relative;
+  height: 37px;
+}
+.back {
+  width: 36px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.play-button-icon {
+  width: 67px;
+  position: relative;
+  height: 67px;
+}
+.frame9 {
+  width: 154px;
+  height: 67px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 51px;
+}
+.next-icon {
+  width: 23px;
+  position: relative;
+  height: 26px;
+}
+.frame8 {
+  width: 236px;
+  height: 67px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 58px;
+  position: undefined;
+  margin-right: 16px;
+}
+.bottom-part,
+.frame5,
+.track-view {
+  width: 402px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.frame5 {
+  height: 123px;
+  overflow: hidden;
+  flex-shrink: 0;
+  justify-content: flex-end;
+  gap: 11px;
+  font-size: var(--font-size-3xs);
+  color: var(--neutral-neutral-01);
+  font-family: var(--font-avenir-next);
+}
+.bottom-part,
+.track-view {
+  height: 185px;
+  justify-content: center;
+  gap: 15px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-arial);
+}
+.track-view {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #962419, #661710 44.79%, #430e09), #121212;
+  height: 926px;
+  overflow: hidden;
+  justify-content: flex-start;
+  padding: 47px 13px;
+  box-sizing: border-box;
+  gap: 55px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-silver-200);
+  font-family: var(--font-inter);
+}
